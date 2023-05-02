@@ -1,0 +1,11 @@
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\bin\Debug\proteklo-tekuce_vrijeme.exe.config
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\bin\Debug\proteklo-tekuce_vrijeme.exe
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\bin\Debug\proteklo-tekuce_vrijeme.pdb
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo-tekuce_vrijeme.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo-tekuce_vrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo_tekuce_vrijeme.Form1.resources
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo_tekuce_vrijeme.Properties.Resources.resources
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo-tekuce_vrijeme.csproj.GenerateResource.cache
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo-tekuce_vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo-tekuce_vrijeme.exe
+C:\Users\linar\Documents\programiranje\proteklo-tekuce_vrijeme\proteklo-tekuce_vrijeme\obj\Debug\proteklo-tekuce_vrijeme.pdb
